@@ -280,8 +280,8 @@ Your data will look like this:
 You will need to write three functions:
 
   - one called `average()` which takes a DataFrame as a parameter and returns the average the DataFrame
-  - one called `average_warmest()` which takes a DataFrame as a parameter and returns the average of the minimum of the DataFrame
-  - one called `average_coldest()` which takes a DataFrame as a parameter and returns the average of the maximum of the DataFrame
+  - one called `average_high()` which takes a DataFrame as a parameter and returns the average of the maximum `'TMAX'` of the DataFrame
+  - one called `average_low()` which takes a DataFrame as a parameter and returns the average of the minimum `'TMIN'` of the DataFrame
 
 You will need these for the online assessment!  Do your best.
 
