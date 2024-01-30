@@ -8,3 +8,9 @@
 | 0 | HW0 <br/> [[pdf](./homework/hw0/hw0.pdf)] / [[ipynb](./homework/hw0/hw0.ipynb)] / [[md](./homework/hw0/hw0.md)] | Data Engineering and Data Science warmup | 2/7 @ Midnight |
 
 
+## HW Tutorials
+| HW | Link | Description | 
+|:-:|:----:|:-----------:|
+| HW0 | HW0-001 <br/> [[ipynb](./tutorials/hw0/hw0-001.ipynb)] | Covers some basic Pandas operations, groupby and concat | 
+
+
