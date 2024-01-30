@@ -11,6 +11,6 @@
 ## HW Tutorials
 | HW | Link | Description | 
 |:-:|:----:|:-----------:|
-| HW0 | HW0-001 <br/> [[ipynb](./tutorials/hw0/hw0-001.ipynb)] | Covers some basic Pandas operations, groupby and concat | 
+| HW0 | HW0-001 <br/> [[ipynb](./tutorials/hw0/tutorial_hw0-001.ipynb)] | Covers some basic Pandas operations, groupby and concat | 
 
 
